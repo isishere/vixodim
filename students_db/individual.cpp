@@ -1,5 +1,5 @@
-#include "Student.h"
-#include "Hybrid.h"
+#include "student.h"
+#include "hybrid.h"
 #include <set>
 #include <string>
 
