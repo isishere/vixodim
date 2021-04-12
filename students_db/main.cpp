@@ -4,10 +4,10 @@
 #include <filesystem>
 #include <fstream>
 
-#include "Student.h"
-#include "Hybrid.h"
-#include "Individual.h"
-#include "General.h"
+#include "student.h"
+#include "hybrid.h"
+#include "individual.h"
+#include "general.h"
 
 namespace fs = std::filesystem;
 
