@@ -5,7 +5,7 @@
 #include "solution.h"
 
 
-const char* CSV_FILE_NAME = "C:\\proga\\cpp\\tests\\test2_new\\NBAstudents.csv";
+const char* CSV_FILE_NAME = "NBAplayers.csv";
 
 // reads a file and fills up a collection of students
 void test1()
