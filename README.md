@@ -1,3 +1,0 @@
-# vixodim
-
-experiments and learning
